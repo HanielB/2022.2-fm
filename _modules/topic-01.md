@@ -7,4 +7,12 @@ title: Topic 01 - Introduction to Alloy
 
 31 Aug
 : [**Introduction to Alloy**]({{ site.baseurl }}{% link _lessons/01-alloy-intro/alloy-intro.md %})
-  : [Old recorded lecture](https://youtu.be/7SJPDnZ40Hg)
+  : [Old recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZxRUSUJbwyeerfCptuP19Br)
+
+05 Sep
+: [**Introduction to Alloy**]({{ site.baseurl }}{% link _lessons/01-alloy-intro/alloy-intro.md %}) (via Zoom)
+  : [Old recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZxRUSUJbwyeerfCptuP19Br)
+
+14 Sep
+: [**Introduction to Alloy**]({{ site.baseurl }}{% link _lessons/01-alloy-intro/alloy-intro.md %})
+  : [Old recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZxRUSUJbwyeerfCptuP19Br)
