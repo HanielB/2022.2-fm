@@ -16,4 +16,4 @@ title: Alloy modeling: Academia example
 
 ## Resources
 
-- Academy models for the Alloy Analyzer: [academia-1.als]({{ site.baseurl }}{% link _lessons/05-academy/code/academia-1.als %}), [academia-2.als]({{ site.baseurl }}{% link _lessons/05-academy/code/academia-2.als %}), [academia-3.als]({{ site.baseurl }}{% link _lessons/05-academy/code/academia-3.als %}),
+- Academy models for the Alloy Analyzer: [academia-1.als]({{ site.baseurl }}{% link _lessons/02-alloy-modeling/code/academia-1.als %}), [academia-2.als]({{ site.baseurl }}{% link _lessons/02-alloy-modeling/code/academia-2.als %}), [academia-3.als]({{ site.baseurl }}{% link _lessons/02-alloy-modeling/code/academia-3.als %}),
