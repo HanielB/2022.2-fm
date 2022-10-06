@@ -12,9 +12,9 @@ title: Linear Temporal Logic
 ## Readings
 
 - [Code for the ball example]({{ site.baseurl }}{% link _lessons/03-dynamic/code/ballDynamic.als %})
-- [Class notes on dynamic models]({{ site.baseurl }}{% link _lessons/03-dynamic/cesare-dynamic-models.pdf}), by C. Tinelli
-- [Class notes on a dynamic model for a hotel lock system]({{ site.baseurl }}{% link _lessons/03-dynamic/cesare-hotel-model.pdf}), by C. Tinelli
-- [Class notes on a dynamic model for a rover]({{ site.baseurl }}{% link _lessons/03-dynamic/cesare-rover-model.pdf}), by C. Tinelli
+- [Class notes on dynamic models]({{ site.baseurl }}{% link _lessons/03-dynamic/cesare-dynamic-models.pdf %}), by C. Tinelli
+- [Class notes on a dynamic model for a hotel lock system]({{ site.baseurl }}{% link _lessons/03-dynamic/cesare-hotel-model.pdf %}), by C. Tinelli
+- [Class notes on a dynamic model for a rover]({{ site.baseurl }}{% link _lessons/03-dynamic/cesare-rover-model.pdf %}), by C. Tinelli
 
 
 ### Recommended readings
