@@ -26,7 +26,7 @@ title: Constraint solving for Alloy
 ### Recommended readings
 {: .no_toc .mb-2 }
 
-- [Kodkod: A Relational Model Finder]({{ site.baseurl }}{% link _lessons/04-solving/Torlak2004.pdf %})
+- [Kodkod: A Relational Model Finder]({{ site.baseurl }}{% link _lessons/04-solving/Torlak2007.pdf %})
 - [Alloy*: A General-Purpose Higher-Order Relational Constraint Solver]({{ site.baseurl }}{% link _lessons/04-solving/Milisevic2015.pdf %})
 
 ## From Alloy to SAT
