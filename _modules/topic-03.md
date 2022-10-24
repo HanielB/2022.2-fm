@@ -15,4 +15,4 @@ title: Topic 03 - Constraint solving for Alloy
 
 24 Oct
 : [**Encoding Alloy into SAT**]({{ site.baseurl }}{% link _lessons/04-solving/solving.md %})
-  : [Lecture](https://youtu.be/tUDFI_TvrUs)
+  : [Old recorded lecture](https://youtu.be/tUDFI_TvrUs)
