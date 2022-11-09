@@ -10,7 +10,7 @@ To install Dafny in Visual Studio Code, you need first to download and install V
 
 Once you have Visual Studio Code, you can install the Dafny extension for Visual
 Studio Code following [these
-instructions](https://marketplace.visualstudio.com/items?itemName=correctnessLab.dafny-vscode). This
+instructions](https://marketplace.visualstudio.com/items?itemName=dafny-lang.ide-vscode). This
 extension contains everything you need, including its own copy of Dafny.
 
 **Note**: you need to have .NET installed. Only the runtime one is necessary. If you want to install it on Ubuntu, for example, you can follow [these instructions](https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu), or likewise look for similar instructions for your environment.
