@@ -11,7 +11,6 @@ title: Topic 04 - Specifying and verifying programs with Dafny
   : [Old recorded lecture](https://youtu.be/hjILHtFgI1o)
   : [Old recorded lecture](https://youtu.be/BVAUFQHVbjg)
 
-
 16 Nov
 : [**Arrays, invariants and frame conditions**]({{ site.baseurl }}{% link _lessons/06-dafny-invariants/dafny-invariants.md %})
   : [Old recorded lecture](https://youtu.be/e6VhUqn_aqA)
